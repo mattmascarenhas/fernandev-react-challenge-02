@@ -1,4 +1,4 @@
-# fernandev
+# DESAFIO COMPLETO POR MATTMASCARENHAS
 
 ## React Interview Challenge #02
 
@@ -8,8 +8,5 @@ Dessa vez temos um formulário de login incompleto e a sua missão é finalizar 
 
 Preste bem atenção às instruções dentro do arquivo App.jsx e bora codar!
 
-**Se você curtir esse conteúdo, deixa uma STAR aí nesse repo,** porque isso me motiva a trazer mais conteúdos desse gênero.
+https://github.com/nandokferrari/fernandev-react-challenge-02
 
-## Resolução do desafio
-
-https://youtu.be/NAtf3T9gG7s
